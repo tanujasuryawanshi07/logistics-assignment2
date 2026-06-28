@@ -1,0 +1,9 @@
+Order_ID,Region,Category,Product,Revenue,Orders,Delivery_Status
+101,North,Electronics,Laptop,1200,1,Delivered
+102,North,Clothing,T-Shirt,200,4,Pending
+103,South,Electronics,Phone,800,2,Delivered
+104,South,Clothing,Jeans,150,3,Cancelled
+105,East,Electronics,Tablet,400,1,Pending
+106,East,Clothing,Shoes,300,2,Delivered
+107,West,Electronics,Laptop,2400,2,Delivered
+108,West,Clothing,Hoodie,180,3,Pending
